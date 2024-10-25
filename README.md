@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @enstn.
-- 👀 I’m a retired buddhist ninja.
 - 🌱 I’m currently learning ...
 
 <!---
