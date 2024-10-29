@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @enstn.
-- 🌱 I’m currently learning ...
+Hi, I’m @enstn.
 
 <!---
 enstn/enstn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
