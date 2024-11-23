@@ -1,4 +1,4 @@
-Hi, I’m @enstn.
+Hi, this is where I store my brainrot code.
 
 <!---
 enstn/enstn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
